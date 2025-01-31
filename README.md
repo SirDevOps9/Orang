@@ -2,21 +2,29 @@ System Monitoring Script
 
 
 A comprehensive Bash script to monitor system resources, including:
+
 Disk usage and threshold alerts
+
 CPU usage
+
 Memory usage
+
 Top 5 memory-consuming processes
+
 Features:
-Customizable disk usage threshold
-Log file output with timestamp
-Email notification support (configure your email address in the script)
+
+-Customizable disk usage threshold
+-Log file output with timestamp
+-Email notification support (configure your email address in the script)
+
 Usage:
-Clone this repository to your local machine.
-Make the script executable: chmod +x system_monitor.sh
-Run the script: ./system_monitor.sh
-Optionally, customize the disk usage threshold and log file name using command-line arguments:
+1-Clone this repository to your local machine.
+2-Make the script executable: chmod +x system_monitor.sh
+3-Run the script: ./system_monitor.sh
+*Optionally, customize the disk usage threshold and log file name using command-line arguments:
 -t <threshold>: Set disk usage warning threshold (default is 80%)
 -f <log_file>: Set the log file name (default is system_monitor.log)
+
 Example Output:
 The script will generate a log file with the following format:
 🔍 System Monitoring Script
