@@ -18,6 +18,7 @@ Features:
 -Email notification support (configure your email address in the script)
 
 Usage:
+
 1-Clone this repository to your local machine.
 2-Make the script executable: chmod +x system_monitor.sh
 3-Run the script: ./system_monitor.sh
