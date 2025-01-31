@@ -1,7 +1,10 @@
 System Monitoring Script
+
 This System Monitoring Script is a simple yet powerful tool for checking the health of your Linux system. It monitors key system metrics like disk usage, CPU usage, memory usage, and the top memory-consuming processes. It also generates a log file for easy reference and can send warnings when thresholds are exceeded.
 
 Features
+
+
 Disk Usage Monitoring: The script checks disk usage for all partitions and triggers a warning if the usage exceeds a specified threshold.
 CPU Usage Monitoring: Displays the current CPU usage percentage.
 Memory Usage Monitoring: Shows the total, used, and free memory on your system.
