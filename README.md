@@ -1,6 +1,6 @@
-
-Here's a description you can use in your GitHub README:
 System Monitoring Script
+
+
 A comprehensive Bash script to monitor system resources, including:
 Disk usage and threshold alerts
 CPU usage
